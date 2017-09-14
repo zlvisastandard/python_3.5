@@ -71,6 +71,9 @@ from wxpy import *
 ![](https://i.imgur.com/jsUyrSF.jpg)
 
 
+源代码见[GitHub](https://github.com/panic-java/python_3.5/tree/master/wechartauto "GitHub")
+
+
 
 
 
